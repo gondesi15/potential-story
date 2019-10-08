@@ -1,0 +1,29 @@
+[33mcommit 98e7c32583644182b0c7bf2cd72905c89fe2cf2a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Stone Yang <stone@royal-30.cs.wisc.edu>
+Date:   Tue Oct 8 18:10:35 2019 -0500
+
+    Stone's addition
+
+[33mcommit 01b8abd67a11d7bd9b779386b4f905f91e7a1357[m
+Author: Nicholas Rau <nrau@royal-13.cs.wisc.edu>
+Date:   Tue Oct 8 17:59:13 2019 -0500
+
+    <nicholar> addition
+
+[33mcommit a24428e088a8aa45c1d668c51be23cdb4b557156[m
+Author: Zhikai Zheng <zhikai@royal-05.cs.wisc.edu>
+Date:   Tue Oct 8 17:49:21 2019 -0500
+
+    Zhikai Zheng addition
+
+[33mcommit f2208f7b53fdc192a1a6ef4a23c515c369810f7a[m
+Author: Anisha Gondesi <gondesi@snares-08.cs.wisc.edu>
+Date:   Fri Oct 4 22:18:20 2019 -0500
+
+    first paragraph
+
+[33mcommit a4f02feae6b629285478269cb21e5525ca1985d3[m
+Author: gondesi15 <56175447+gondesi15@users.noreply.github.com>
+Date:   Fri Oct 4 15:36:10 2019 -0500
+
+    Initial commit
